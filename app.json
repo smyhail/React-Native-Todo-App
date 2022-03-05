@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "tut_jeffgiang",
+    "slug": "tut_jeffgiang",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
